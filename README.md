@@ -1,7 +1,7 @@
 # Exact loneliness values of dilated one-entry replacements of {1,...,N}, and the failure of Kravitz's original spectrum conjecture
 
 Pre-release draft of 25 November 2026 (private repository). Author: Vico Bonfioli. License: CC-BY-4.0 (`LICENSE.md`). Not peer reviewed. No DOI yet.
-Paper: `paper/paperA1.pdf` (source `paper/paperA1.tex`). Companion drafts (not released): the other two papers of the series; dependency diagram `paper/dependency.pdf`.
+Paper: `paper/paperA1.pdf` (source `paper/paperA1.tex`). Series on Zenodo: A1 (one-entry values) doi:10.5281/zenodo.24531020, A2 (effective Kravitz lemma) doi:10.5281/zenodo.24531022, B (added speeds) doi:10.5281/zenodo.24531025, Lean sources doi:10.5281/zenodo.24531012; dependency diagram `paper/dependency.pdf`.
 
 ## Abstract
 
