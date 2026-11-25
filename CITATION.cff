@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Exact loneliness values of dilated one-entry replacements of {1,...,N}, and the failure of Kravitz's original spectrum conjecture"
+abstract: >-
+  Paper (pre-release draft of 25 November 2026) and computing programs. Not peer reviewed. Produced with substantial assistance from AI systems (Anthropic's Claude models) under the direction of the author.
+authors:
+  - family-names: Bonfioli
+    given-names: Vico
+license: CC-BY-4.0
+repository-code: "https://github.com/ElVec1o/lonely-runner-one-entry-values"
+version: "pre-release draft 2026-11-25"
+type: software
+keywords:
+  - lonely runner conjecture
+  - view obstruction
+  - Lean 4

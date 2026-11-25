@@ -1,0 +1,6 @@
+.DS_Store
+*.olean
+.lake/
+bin/
+target/
+logs/
