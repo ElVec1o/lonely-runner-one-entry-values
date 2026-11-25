@@ -1,0 +1,39 @@
+{
+  "title": "Exact loneliness values of dilated one-entry replacements of {1,...,N}, and the failure of Kravitz's original spectrum conjecture",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "publication_date": "2026-11-25",
+  "creators": [
+    {
+      "name": "Bonfioli, Vico",
+      "affiliation": "Independent"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "lonely runner conjecture",
+    "view obstruction",
+    "Lean 4"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24443755",
+      "relation": "cites",
+      "scheme": "doi",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "arXiv:1912.06034",
+      "relation": "cites",
+      "scheme": "arxiv",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://github.com/ElVec1o/lonely-runner-near-tight-lean",
+      "relation": "isSupplementedBy",
+      "scheme": "url",
+      "resource_type": "software"
+    }
+  ],
+  "description": "Paper and computing programs on lonely runner speeds with loneliness close to 1/(N+1); the Lean statements are in the companion repository lonely-runner-near-tight-lean. The Lean modules, programs and the first drafts of the text were produced by an AI system (Claude, Anthropic) under the direction of Vico Bonfioli, who set the questions and directions; independent AI sessions reviewed them. The Lean kernel, not a human reader, checks the Lean proofs. Not peer reviewed. No proof of the lonely runner conjecture is claimed."
+}
