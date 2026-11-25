@@ -37,7 +37,7 @@ Companions: A1 uses A2 for the hand proofs of Proposition 1.8 and Theorem 1.9 an
 
 ## Not done yet
 
-Blind reads by independent readers of the current text, the talk and the FAQ of the release rules, a refresh of the prior-art search (searches of 25 November 2026 are described in the paper and expire), a clean-checkout build of the Lean repository, and a reproduction script for the computed tables. The paper text still carries the phrase "fresh seat" in its Lean section (working vocabulary) and a TODO for bibliography details (first names and titles of four references).
+Blind reads by independent readers of the current text, the talk and the FAQ of the release rules, a refresh of the prior-art search (searches of 25 November 2026 are described in the paper and expire), a clean-checkout build of the Lean repository, and a reproduction script for the computed tables.
 
 ## Build the paper
 
