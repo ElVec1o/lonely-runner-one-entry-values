@@ -14,7 +14,7 @@ Fix a time t and a threshold tau >= 1/(N+1) and suppose every speed of ([N] minu
 
 ## Main results
 
-Numbers are those of the PDF of this version. "Lean" means: the declarations named are in the Lean repository `lonely-runner-near-tight-lean`, the saved build logs of the author's development tree end with `Build completed successfully`, no `sorryAx` occurs and only the three standard axioms are printed; no clean-checkout build has been run. The status of every statement of the paper (Lean, hand, computed, conjecture) is the table "Status per statement" in the paper; where the entry below says mixed, that table decides.
+Numbers are those of the PDF of this version. "Lean" means: the declarations named are in the Lean repository `lonely-runner-near-tight-lean`, the saved build logs of the author's development tree end with `Build completed successfully`, no `sorryAx` occurs and only the three standard axioms are printed; a clean-checkout build of the umbrella module `LRSpectrumFull.Sext6.Gap.All` (362 modules, public five-speed v1.0.2 plus the overlay) was run on 25 November 2026: 0 failures, and its axiom output is identical to the saved one; the larger `Release` closure was not rebuilt from a clean checkout. The status of every statement of the paper (Lean, hand, computed, conjecture) is the table "Status per statement" in the paper; where the entry below says mixed, that table decides.
 
 | paper | statement (short; the paper has the full statement) | label |
 |---|---|---|
@@ -37,7 +37,7 @@ Companions: A1 uses A2 for the hand proofs of Proposition 1.8 and Theorem 1.9 an
 
 ## Not done yet
 
-Blind reads by independent readers of the current text, the talk and the FAQ of the release rules, a refresh of the prior-art search (searches of 25 November 2026 are described in the paper and expire), a clean-checkout build of the Lean repository, and a reproduction script for the computed tables.
+Blind reads by independent readers of the current text, the talk and the FAQ of the release rules, a refresh of the prior-art search (searches of 25 November 2026 are described in the paper and expire), a clean-checkout build of the full `Release` closure of the Lean repository, and a reproduction script for the computed tables.
 
 ## Build the paper
 
